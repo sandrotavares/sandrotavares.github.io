@@ -140,7 +140,7 @@ a:hover {
 @media screen and (min-width: 1280px) and (max-width: 1365px) {
   .wrapper {
     width:960px;
-    max-width:46%;
+    max-width:47%;
     margin-left: 213px;
     margin-top: 172px
   }
@@ -149,7 +149,7 @@ a:hover {
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .wrapper {
     width:960px;
-    max-width:49%;
+    max-width:60%;
     margin-left: 213px;
     margin-top: 172px
   }
@@ -176,7 +176,7 @@ a:hover {
 @media screen and (min-width: 640px) and (max-width: 719px) {
   .wrapper {
     width:640px;
-    max-width:72%;
+    max-width:92%;
     margin-left: 24px;
     margin-top: 96px
   }
@@ -184,10 +184,44 @@ a:hover {
 
 @media screen and (min-width: 240px) and (max-width: 639px) {
   .wrapper {
-    width:640px;
-    max-width:85%;
+    width:480px;
+    max-width:90%;
     margin-left: 24px;
-    margin-top: 96px
+    margin-top: 48px
   }
+
+  .platformlinks {
+    width:480px;
+    max-width:90%;
+    margin-top: 24px;
+  }
+
+  .type2 a:link {
+    font-size: 18px;
+    line-height: 40px;
+    padding-left: 0px;
+    padding-right: 16px;
+  }
+
+  .type2 a:hover {
+    font-size: 18px;
+    line-height: 40px;
+    padding-left: 0px;
+    padding-right: 16px;
+  }
+
+  a {
+    font-size: 18px;
+    line-height: 40px;
+    padding-right: 16px;
+  }
+
+  a:hover {
+    font-size: 18px;
+    line-height: 40px;
+    padding-right: 16px;
+  }
+
 }
+
 }
