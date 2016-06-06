@@ -197,29 +197,13 @@ a:hover {
   }
 
   .type2 a:link {
-    font-size: 18px;
     line-height: 40px;
     padding-left: 0px;
-    padding-right: 16px;
   }
 
   .type2 a:hover {
-    font-size: 18px;
     line-height: 40px;
     padding-left: 0px;
-    padding-right: 16px;
-  }
-
-  a {
-    font-size: 18px;
-    line-height: 40px;
-    padding-right: 16px;
-  }
-
-  a:hover {
-    font-size: 18px;
-    line-height: 40px;
-    padding-right: 16px;
   }
 
 }
