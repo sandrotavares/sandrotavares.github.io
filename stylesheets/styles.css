@@ -206,6 +206,10 @@ a:hover {
     padding-left: 0px;
   }
 
+  h1 {
+    line-height:1.3;
+  }
+
 }
 
 }
